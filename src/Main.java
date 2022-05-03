@@ -6,7 +6,7 @@ public class Main {
         SimpleDateFormat formatter = new SimpleDateFormat("yyyy/MM/dd");
         System.out.println(formatter.format(new Date()));
 
-        System.out.println("Hell");
+        System.out.println("Hell + peace");
 
     }
 }
