@@ -10,5 +10,7 @@ public class Main {
 
         System.out.println("Выберите пункт доставки:");
         System.out.println("Добавили Button");
+
+        System.out.println("Добавили вывод Cancel button");
     }
 }
