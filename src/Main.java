@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("Peace + hello");
 
+        System.out.println("Выберите пункт доставки:");
+
     }
 }
